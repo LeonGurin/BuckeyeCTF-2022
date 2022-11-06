@@ -4,7 +4,7 @@
 
 Real winners use twin primes
 
-*Given:* [chall.py]()
+*Given:* [chall.py](https://github.com/LeonGurin/BuckeyeCTF-2022/blob/main/Twin%20prime%20RSA/chall.py)
 
 ___
 

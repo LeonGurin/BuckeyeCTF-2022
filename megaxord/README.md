@@ -6,7 +6,7 @@ Some pesky wizard stole the article I was writing. I got it back, but it's all m
 
 Hint: the wizard used the same magic on every character...
 
-*Given:* [megaxord.txt]()
+*Given:* [megaxord.txt](https://github.com/LeonGurin/BuckeyeCTF-2022/blob/main/megaxord/megaxord.txt)
 
 ___
 
