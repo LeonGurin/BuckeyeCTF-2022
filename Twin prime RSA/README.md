@@ -1,6 +1,6 @@
 # Twin prime RSA
 
-**xxx points**
+**100 points**
 
 Real winners use twin primes
 
