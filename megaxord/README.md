@@ -1,6 +1,6 @@
 # megaxord
 
-**xxx points**
+**60 points**
 
 Some pesky wizard stole the article I was writing. I got it back, but it's all messed up now :(
 
